@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Everett';
+  src: url('../fonts/Everett-Light.woff');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Everett';
+  src: url('../fonts/Everett-Regular.woff');
+}
+
+@font-face {
+  font-family: 'Everett';
+  src: url('../fonts/Everett-Medium.woff');
+  font-weight: medium;
+}
